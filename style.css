@@ -20,6 +20,9 @@ ul{
     align-items: center;
 
 }
+li:hover{
+    color: rgb(187, 13, 172);
+}
 .menu img{ 
     display: none;
 }
