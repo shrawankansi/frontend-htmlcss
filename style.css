@@ -33,6 +33,10 @@ button{
     border:none;
     background-color: rgb(24, 6, 97);
 }
+button:hover{
+    background-color: rgb(30, 159, 245);
+    /* color: rgb(187, 16, 101); */
+}
 /* /////////////////hero ////////////////////////// */
 .hero{
     margin-top: 70px;
