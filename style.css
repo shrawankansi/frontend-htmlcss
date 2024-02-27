@@ -13,7 +13,7 @@
 }
 ul{
     display: flex;
-    gap: 10px;
+    gap: 30px;
     color: rgb(126, 133, 133);
     list-style: none;
     cursor: pointer;
