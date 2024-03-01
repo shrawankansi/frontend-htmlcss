@@ -34,12 +34,19 @@ button{
 }
 .right-main img{
     width: 30vw;
-    
+    padding: 1vw;
+    background-color: #e0e0e0;
+    border-radius: 8px;
+    box-shadow: -5px -5px 10px #929292, 5px 5px 10px #ffffff;
 }
 /* ///////////////////////////// */
 .left-main{
 width: 50vw;
-height: 20vh;
+/* height: 20vh; */
+padding: 1vw;
+background-color: #e0e0e0;
+border-radius: 8px;
+box-shadow: -5px -5px 10px #929292, 5px 5px 10px #ffffff;
 }
 h1{
     font-size: 3vw;
