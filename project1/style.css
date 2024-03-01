@@ -1,0 +1,92 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: #e0e0e0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    align-items: center;
+    gap: 20vw;
+    
+}
+ul{
+    display:flex;
+    gap: 4vw;
+    align-items: center;
+    
+}
+li{
+    list-style: none;
+}
+button{
+    padding: 10px;
+    border-radius: 7px;
+    border:none;
+    background-color: rgb(233, 122, 30);
+}
+/* ///////////////////////////////////////// */
+.main{
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-around;
+}
+.right-main img{
+    width: 30vw;
+    
+}
+/* ///////////////////////////// */
+.left-main{
+width: 50vw;
+height: 20vh;
+}
+h1{
+    font-size: 3vw;
+}
+h4{
+    margin-top: 10px;
+    font-size: 1.5vw;
+    color: rgb(149, 151, 153);
+}
+.profil img{
+    width: 5vw;
+}
+.profil{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    gap: 20px;
+}
+/* /////////////////////card//////////////// */
+
+.card img{
+    width: 25vw;
+
+}
+.cards{
+    display: flex;
+    margin-top: 10vh;
+    justify-content: space-around;
+
+}
+.card{
+    width: 25vw;
+    background-color: #e0e0e0;
+    border-radius: 8px;
+    box-shadow: -5px -5px 10px #929292, 5px 5px 10px #ffffff;
+    
+}
+/* //////////////////////////// */
+.card-profil img{
+    width: 5vw;
+}
+.card-profil{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+/* /////////////////////footer////////////////// */
+.footer{
+    margin-top: 20vh;
+}
